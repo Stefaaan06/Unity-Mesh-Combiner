@@ -51,9 +51,10 @@ It is useful for reducing draw calls and improving performance.
 
     * Restores original meshes, hierarchy, transforms, and deletes the combined object
 
-## Contribution
+## Contribution & Known Issues
 
 Any contribution is welcome as there is still a lot to improve and add:
 - Better readme with more images or gifs
 - Better workflow for editing merged meshes. Right now you have to Uncombine -> edit the objects -> Combine again
 - More and better optimisation methods
+- The duplicated colliders dont mirror tags and layers so they have to be set manually
