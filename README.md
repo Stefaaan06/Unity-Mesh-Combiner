@@ -31,7 +31,7 @@ It is usefull for reducing draw calls and improving performance.
     * Enter:
 
       ```
-      https://github.com/Stefaaan06/Unity-Editor-Mesh-Combiner.git
+      https://github.com/Stefaaan06/Unity-Mesh-Combiner.git
       ```
 2. You can now open the tool window under **tools** -> **Mesh Combiner**.
 
