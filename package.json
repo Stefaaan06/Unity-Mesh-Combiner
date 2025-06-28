@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Unity Mesh Combine",
   "description": "Unity Mesh Merger tool that allows merging at editor time and when building.",
-  "unity": "6",
+  "unity": "6.0",
   
   "keywords": [
       "unity",
