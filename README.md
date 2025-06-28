@@ -1,6 +1,6 @@
 ﻿
 Mesh Combiner Tool is a Unity Editor extension that lets you merge meshes (and their children) into a single optimized mesh at editor time. 
-It is usefull for reducing draw calls and improving performance.
+It is useful for reducing draw calls and improving performance.
 
 ## Features
 

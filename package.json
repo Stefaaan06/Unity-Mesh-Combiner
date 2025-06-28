@@ -1,8 +1,8 @@
 {
   "name": "com.stefaaan06.mesh_combine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Unity Mesh Combine",
-  "description": "Unity Mesh Merger tool that allows merging at editor time and when building.",
+  "description": "Mesh Combiner Tool is a Unity Editor extension that lets you merge meshes (and their children) into a single optimized mesh at editor time. It is useful for reducing draw calls and improving performance.",
   "unity": "6.0",
   
   "keywords": [
