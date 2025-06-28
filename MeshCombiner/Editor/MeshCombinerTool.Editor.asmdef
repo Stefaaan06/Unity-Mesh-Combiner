@@ -1,0 +1,5 @@
+{
+  "name": "MeshCombinerTool.Editor",
+  "references": [ "MeshCombinerTool" ],
+  "includePlatforms": [ "Editor" ]
+}
