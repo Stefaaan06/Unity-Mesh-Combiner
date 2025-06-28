@@ -1,0 +1,25 @@
+{
+  "name": "com.stefaaan06.mesh_combine",
+  "version": "1.0.0",
+  "displayName": "Unity Mesh Combine",
+  "description": "Unity Mesh Merger tool that allows merging at editor time and when building.",
+  "unity": "6",
+  
+  "keywords": [
+      "unity",
+      "unity3d",
+      "mesh",
+      "merge", 
+      "combine",
+      "combine meshes",
+      "optimization",
+      "documentation"
+  ],
+
+  "category": "Open-Source",
+    
+  "author": {
+    "name": "Stefaaan06",
+    "url": "https://stefaaan06.com"
+  }
+}
