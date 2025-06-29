@@ -58,3 +58,4 @@ Any contribution is welcome as there is still a lot to improve and add:
 - Better workflow for editing merged meshes. Right now you have to Uncombine -> edit the objects -> Combine again
 - More and better optimisation methods
 - The duplicated colliders dont mirror tags and layers so they have to be set manually
+- Merged Objects have all the Materials of the old Meshes, even if they are duplicate. This leads to performance and lighting issues
